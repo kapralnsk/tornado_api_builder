@@ -1,3 +1,5 @@
+# BEWARE this project is unfinished, and dead
+
 # Tornado API Builder
 
 Allows you to easily create RESTful HTTP API, based on Tornado web framework.
